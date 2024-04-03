@@ -5,7 +5,7 @@ import { ShieldHalf } from 'lucide-react'
 import { PlugZap } from 'lucide-react'
 import { GlobeLock } from 'lucide-react'
 
-import logo from '../assets/logo.png'
+import user1 from '../assets/profile-pictures/user1.jpg'
 import user2 from '../assets/profile-pictures/user2.jpg'
 import user3 from '../assets/profile-pictures/user3.jpg'
 import user4 from '../assets/profile-pictures/user4.jpg'
@@ -21,22 +21,22 @@ export const navItems = [
 
 export const testimonials = [
   {
-    user: 'Luna Ahmetspahić',
-    company: 'Prva privatna osnovna škola "Isa-beg Ishaković"',
-    image: logo,
+    user: 'John Doe',
+    company: 'Stellar Solutions',
+    image: user1,
     text: 'I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.',
   },
   {
-    user: 'Berina Mujezin',
-    company: 'Prva privatna osnovna škola "Isa-beg Ishaković"',
-    image: logo,
+    user: 'Jane Smith',
+    company: 'Blue Horizon Technologies',
+    image: user2,
     text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
   },
   {
-    user: 'Bianka Anić',
-    company: 'Prva privatna osnovna škola "Isa-beg Ishaković"',
-    image: logo,
-    text: 'Working with this company was a pleasure. Their attention to detail are commendable.',
+    user: 'David Johnson',
+    company: 'Quantum Innovations',
+    image: user3,
+    text: 'Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.',
   },
   // {
   //   user: "Ronee Brown",
