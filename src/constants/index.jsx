@@ -61,58 +61,61 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: 'Drag-and-Drop Interface',
+    text: 'Triangle Sum Theorem - The sum of the 3 angles in a triangle is always 180°.',
     description:
-      'Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.',
+      'Suppose ABC is a triangle, then as per this theorem ∠A + ∠B + ∠C = 180°',
   },
   {
     icon: <Fingerprint />,
-    text: 'Multi-Platform Compatibility',
+    text: 'The measure of the exterior angle of a triangle is equal to the sum of the corresponding interior angles.',
     description:
-      'Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.',
+      'For a triangle, ABC, ∠1, ∠2 and ∠3 are interior angles. And ∠4, ∠5 and ∠6 are the three exterior angles.',
   },
   {
     icon: <ShieldHalf />,
-    text: 'Built-in Templates',
-    description:
-      'Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.',
+    text: 'The sum of an interior angle and its adjacent exterior angle is 180°',
+    description:''
+      // 'Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.',
   },
   {
     icon: <BatteryCharging />,
-    text: 'Real-Time Preview',
-    description:
-      'Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.',
+    text: 'Exterior Angle Theorem',
+    description:'An exterior angle of a triangle is equal to the sum of the two opposite interior angles'
+      // 'Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.',
   },
   {
     icon: <PlugZap />,
-    text: 'Collaboration Tools',
-    description:
-      'Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.',
+    text: 'Sum of exterior angles in a polygon',
+    description:'The sum of the measures of the exterior angles of any triangle is 360 degrees.'
   },
   {
     icon: <GlobeLock />,
-    text: 'Analytics Dashboard',
-    description:
-      'Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.',
+    text: 'Sum of the interior and exterior angle is equal to 180°',
+    description:'Each exterior angle and its corresponding interior angle form a linear pair of angles.'
+      // 'Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.',
   },
 ]
 
 export const checklistItems = [
   {
-    title: 'Code merge made easy',
-    description: 'Track the performance of your VR apps and gain insights into user behavior.',
+    title: 'Angle Sum Theorem Statement',
+    description: ' The angle sum theorem states that the sum of all the interior angles of a triangle is 180 degrees.',
   },
   {
-    title: 'Review code without worry',
-    description: 'Track the performance of your VR apps and gain insights into user behavior.',
+    title: 'Exterior Angle Sum Theorem',
+    description: 'An exterior angle of a triangle is equal to the sum of its two interior opposite angles.',
   },
   {
-    title: 'AI Assistance to reduce time',
-    description: 'Track the performance of your VR apps and gain insights into user behavior.',
+    title: '',
+    description: 'Triangle sum theorem holds for all types of triangles.',
   },
   {
-    title: 'Share work in minutes',
-    description: 'Track the performance of your VR apps and gain insights into user behavior.',
+    title: '',
+    description: 'The sum of all exterior angles of a triangle is equal to 360°.',
+  },
+  {
+    title: '',
+    description: 'The sum of all exterior angles of a convex polygon is equal to 360°.',
   },
 ]
 
