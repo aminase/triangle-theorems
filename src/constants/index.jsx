@@ -13,9 +13,9 @@ import user5 from '../assets/profile-pictures/user5.jpg'
 import user6 from '../assets/profile-pictures/user6.jpg'
 
 export const navItems = [
-  { label: 'Triangle Theorem', href: '#features' },
-  { label: 'Our project', href: '#workflow' },
-  { label: 'Contributors', href: '#testimonials' },
+  { label: 'Triangle Theorem', href: '#landing-page' },
+  { label: 'Our project', href: '#our-project' },
+  { label: 'Contributors', href: '#contributors' },
 ]
 
 export const testimonials = [
@@ -61,8 +61,7 @@ export const features = [
   {
     icon: <BotMessageSquare />,
     text: 'Triangle Sum Theorem - The sum of the 3 angles in a triangle is always 180°.',
-    description:
-      'Suppose ABC is a triangle, then as per this theorem ∠A + ∠B + ∠C = 180°',
+    description: 'Suppose ABC is a triangle, then as per this theorem ∠A + ∠B + ∠C = 180°',
   },
   {
     icon: <Fingerprint />,
@@ -73,36 +72,40 @@ export const features = [
   {
     icon: <ShieldHalf />,
     text: 'The sum of an interior angle and its adjacent exterior angle is 180°',
-    description:''
-      // 'Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.',
+    description: '',
+    // 'Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.',
   },
   {
     icon: <BatteryCharging />,
     text: 'Exterior Angle Theorem',
-    description:'An exterior angle of a triangle is equal to the sum of the two opposite interior angles'
-      // 'Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.',
+    description:
+      'An exterior angle of a triangle is equal to the sum of the two opposite interior angles',
+    // 'Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.',
   },
   {
     icon: <PlugZap />,
     text: 'Sum of exterior angles in a polygon',
-    description:'The sum of the measures of the exterior angles of any triangle is 360 degrees.'
+    description: 'The sum of the measures of the exterior angles of any triangle is 360 degrees.',
   },
   {
     icon: <GlobeLock />,
     text: 'Sum of the interior and exterior angle is equal to 180°',
-    description:'Each exterior angle and its corresponding interior angle form a linear pair of angles.'
-      // 'Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.',
+    description:
+      'Each exterior angle and its corresponding interior angle form a linear pair of angles.',
+    // 'Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.',
   },
 ]
 
 export const checklistItems = [
   {
     title: 'Angle Sum Theorem Statement',
-    description: ' The angle sum theorem states that the sum of all the interior angles of a triangle is 180 degrees.',
+    description:
+      ' The angle sum theorem states that the sum of all the interior angles of a triangle is 180 degrees.',
   },
   {
     title: 'Exterior Angle Sum Theorem',
-    description: 'An exterior angle of a triangle is equal to the sum of its two interior opposite angles.',
+    description:
+      'An exterior angle of a triangle is equal to the sum of its two interior opposite angles.',
   },
   {
     title: '',
