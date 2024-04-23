@@ -1,5 +1,5 @@
 import { CheckCircle2, Triangle } from 'lucide-react'
-import triangle from 'assets/triangle.png'
+import triangle from '/assets/triangle.png'
 import { checklistItems } from '../constants'
 
 const OurProject = () => {

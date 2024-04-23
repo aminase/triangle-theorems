@@ -1,5 +1,5 @@
 // import video1 from '../assets/video1.mp4'
-import video3 from 'assets/video3.mp4?url'
+import video3 from '/assets/video3.mp4?url'
 
 const LandingPage = () => {
   return (
