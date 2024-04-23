@@ -27,15 +27,15 @@ const LandingPage = () => {
         </a> */}
       </div>
       <div className='flex mt-5 justify-center'>
-        <video
+        {/* <video
           autoPlay
           loop
           muted
           className='rounded-lg w-1/2 border border-orange-700 shadow-sm shadow-orange-400 mx-2 my-4'
         >
-          <source src={video3} type='video/mp4' />
+          <source src={video1} type='video/mp4' />
           Your browser does not support the video tag.
-        </video>
+        </video> */}
       </div>
     </div>
   )

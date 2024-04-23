@@ -5,7 +5,7 @@ import { ShieldHalf } from 'lucide-react'
 import { PlugZap } from 'lucide-react'
 import { GlobeLock } from 'lucide-react'
 
-import logo from '../assets/logo.png'
+// import logo from '../assets/logo.png'
 
 export const navItems = [
   { label: 'Triangle Theorem', href: '#landing-page' },
@@ -17,19 +17,19 @@ export const testimonials = [
   {
     user: 'Luna Ahmetspahić',
     company: 'Prva privatna osnovna škola "Isa-beg Ishaković"',
-    image: logo,
+    // image: logo,
     text: 'I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.',
   },
   {
     user: 'Berina Mujezin',
     company: 'Prva privatna osnovna škola "Isa-beg Ishaković"',
-    image: logo,
+    // image: logo,
     text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
   },
   {
     user: 'Bianka Anić',
     company: 'Prva privatna osnovna škola "Isa-beg Ishaković"',
-    image: logo,
+    // image: logo,
     text: 'Working with this company was a pleasure. Their attention to detail are commendable.',
   },
   // {
