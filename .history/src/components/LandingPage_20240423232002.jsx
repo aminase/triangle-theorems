@@ -1,6 +1,5 @@
 // import video1 from '../assets/video1.mp4'
 import video3 from '../assets/video3.mp4'
-
 const LandingPage = () => {
   return (
     <div className='flex flex-col items-center mt-3 lg:mt-5' id='#landing-page'>
