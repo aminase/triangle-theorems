@@ -5,7 +5,7 @@ import { ShieldHalf } from 'lucide-react'
 import { PlugZap } from 'lucide-react'
 import { GlobeLock } from 'lucide-react'
 
-import logo from '../../public/assets/logo.png'
+import logo from '../../public/logo.png'
 
 export const navItems = [
   { label: 'Triangle Theorem', href: '#landing-page' },
