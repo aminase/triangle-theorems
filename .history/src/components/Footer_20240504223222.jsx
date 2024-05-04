@@ -50,17 +50,13 @@ const Footer = () => {
           </ul>
         </div> */}
         <ul className='space-y-2'>
-          <li>©2024 Prva privatna osnovna škola "Isa-beg Ishaković</li>
           <li>
-            Designed by{' '}
-            <a
-              className='text-orange-500 hover:text-orange-400  visited:text-orange-600'
-              // className='underline text- text-orange-700 hover:text-white visited:text-purple-600'
-              href='https://github.com/aminase'
-              // className='text-neutral-300 hover:text-white'
-            >
-              aminase
+            <a href='https://github.com/aminase' className='text-neutral-300 hover:text-white'>
+              amina
             </a>
+          </li>
+          <li>
+            ©2024 Prva privatna osnovna škola "Isa-beg Ishaković <br /> Powered by{' '}
           </li>
         </ul>
       </div>

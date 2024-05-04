@@ -54,10 +54,9 @@ const Footer = () => {
           <li>
             Designed by{' '}
             <a
-              className='text-orange-500 hover:text-orange-400  visited:text-orange-600'
-              // className='underline text- text-orange-700 hover:text-white visited:text-purple-600'
+              className='underline text-blue-600 hover:text-blue-800 visited:text-purple-600'
               href='https://github.com/aminase'
-              // className='text-neutral-300 hover:text-white'
+              className='text-neutral-300 hover:text-white'
             >
               aminase
             </a>
