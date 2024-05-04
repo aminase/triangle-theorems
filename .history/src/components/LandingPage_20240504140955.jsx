@@ -3,16 +3,16 @@ import video3 from '../assets/video3.mp4'
 
 const LandingPage = () => {
   return (
-    <div className='flex flex-col items-center mt-3 lg:mt-5' id='landing-page'>
+    <div className='flex flex-col items-center mt-3 lg:mt-5' id='#landing-page'>
       <h1 className='text-2xl sm:text-3xl lg:text-5xl text-center tracking-wide'>
-        Triangle Theorem
+        Triangle Theorems
         <span className='bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text'>
           {' '}
           {/* for developers */}
         </span>
       </h1>
       <p className='mt-8 text-lg text-center text-neutral-500 max-w-4xl'>
-        Triangle theorem is basically stated based on their angles and sides. Triangles are the
+        Triangle theorems are basically stated based on their angles and sides. Triangles are the
         polygons which have three sides and three angles..
       </p>
       <div className='flex justify-center my-10'>
@@ -31,7 +31,7 @@ const LandingPage = () => {
           autoPlay
           loop
           muted
-          className='rounded-lg w-4/5 border border-orange-700 shadow-sm shadow-orange-400 mx-2 my-4'
+          className='rounded-lg w-3/4 border border-orange-700 shadow-sm shadow-orange-400 mx-2 my-4'
         >
           <source src={video3} type='video/mp4' />
           Your browser does not support the video tag.
