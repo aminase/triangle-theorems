@@ -20,7 +20,8 @@ const Navbar = () => {
           <div className='flex items-center  flex-shrink-0'>
             <img className='h-10 w-10 mr-2' src={logo} alt='Logo' />
 
-            <span className='text-xl tracking-tight'>Triangle Theorem </span>
+            <span className='text-xl tracking-tight'>Angles In A Quadrilateral
+orem </span>
           </div>
           <ul className='justify-end hidden lg:flex ml-14 space-x-12'>
             {navItems.map((item, index) => (

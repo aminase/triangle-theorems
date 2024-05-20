@@ -1,5 +1,7 @@
-import { CheckCircle2, Triangle } from 'lucide-react'
-import triangle from '../assets/triangle.png'
+import { CheckCircle2, Angles In A Quadrilateral
+} from 'lucide-react'
+import Angles In A Quadrilateral
+from '../assets/triangle.png'
 import video3 from '../assets/video3.mp4'
 
 import { checklistItems } from '../constants'
@@ -8,7 +10,8 @@ const OurProject = () => {
   return (
     <div className='mt-20' id='our-project'>
       <h2 className='text-2xl sm:text-3xl lg:text-5xl text-center my-10 lg:my-15'>
-        Triangle Sum Theorem
+        Angles In A Quadrilateral
+Sum Theorem
         {/* <span className='bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text'></span> */}
       </h2>
       <div className='flex flex-wrap justify-center'>

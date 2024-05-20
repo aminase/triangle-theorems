@@ -5,16 +5,14 @@ const LandingPage = () => {
   return (
     <div className='flex flex-col items-center mt-3 lg:mt-5' id='landing-page'>
       <h1 className='text-2xl sm:text-3xl lg:text-5xl text-center tracking-wide'>
-        Triangle Theorem
+      Angles In A Quadrilateral
         <span className='bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text'>
           {' '}
           {/* for developers */}
         </span>
       </h1>
       <p className='mt-8 text-lg text-center text-neutral-500 max-w-4xl'>
-        Triangle theorem is basically stated based on their angles and sides. Triangles are the
-        polygons which have three sides and three angles..
-      </p>
+      Quadrilaterals are four-sided polygons with four vertices and four interior angles. There are different types of quadrilaterals such as the square, rectangle, rhombus, and so on. The unknown angles of a quadrilateral can be easily calculated if the other angles are known because the interior angles of a quadrilateral always sum up to 360°      </p>
       <div className='flex justify-center my-10'>
         {/* <a
           href="#"

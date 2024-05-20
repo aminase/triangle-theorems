@@ -5,14 +5,16 @@ const LandingPage = () => {
   return (
     <div className='flex flex-col items-center mt-3 lg:mt-5' id='#landing-page'>
       <h1 className='text-2xl sm:text-3xl lg:text-5xl text-center tracking-wide'>
-        Triangle Theorems
+        Angles In A Quadrilateral
+orems
         <span className='bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text'>
           {' '}
           {/* for developers */}
         </span>
       </h1>
       <p className='mt-8 text-lg text-center text-neutral-500 max-w-4xl'>
-        Triangle theorems are basically stated based on their angles and sides. Triangles are the
+        Angles In A Quadrilateral
+orems are basically stated based on their angles and sides. Triangles are the
         polygons which have three sides and three angles..
       </p>
       <div className='flex justify-center my-10'>

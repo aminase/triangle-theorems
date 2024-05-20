@@ -8,7 +8,7 @@ import { GlobeLock } from 'lucide-react'
 import logo from '../assets/logo.png'
 
 export const navItems = [
-  { label: 'Triangle Theorem', href: '#landing-page' },
+  { label: 'Angles In A Quadrilateral', href: '#landing-page' },
   { label: 'Our project', href: '#our-project' },
   { label: 'Contributors', href: '#contributors' },
 ]
@@ -55,12 +55,12 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: 'Triangle Sum Theorem - The sum of the 3 angles in a triangle is always 180°.',
+    text: 'Angles In A Quadrilateral',
     description: 'Suppose ABC is a triangle, then as per this theorem ∠A + ∠B + ∠C = 180°',
   },
   {
     icon: <Fingerprint />,
-    text: 'The measure of the exterior angle of a triangle is equal to the sum of the corresponding interior angles.',
+    text: 'The measure of the exterior angle of a Angles In A Quadrilateral',
     description:
       'For a triangle, ABC, ∠1, ∠2 and ∠3 are interior angles. And ∠4, ∠5 and ∠6 are the three exterior angles.',
   },
@@ -74,13 +74,13 @@ export const features = [
     icon: <BatteryCharging />,
     text: 'Exterior Angle Theorem',
     description:
-      'An exterior angle of a triangle is equal to the sum of the two opposite interior angles',
+      'An exterior angle of a Angles In A Quadrilateral',
     // 'Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.',
   },
   {
     icon: <PlugZap />,
     text: 'Sum of exterior angles in a polygon',
-    description: 'The sum of the measures of the exterior angles of any triangle is 360 degrees.',
+    description: 'The sum of the measures of the exterior angles of any Angles In A Quadrilateral',
   },
   {
     icon: <GlobeLock />,
@@ -93,26 +93,18 @@ export const features = [
 
 export const checklistItems = [
   {
-    title: 'Angle Sum Theorem Statement',
+    title: '',
     description:
-      ' The angle sum theorem states that the sum of all the interior angles of a triangle is 180 degrees.',
+      ' There are 4 interior angles and 4 exterior angles in a quadrilateral.',
   },
   {
-    title: 'Exterior Angle Sum Theorem',
+    title: '',
     description:
-      'An exterior angle of a triangle is equal to the sum of its two interior opposite angles.',
+      'The angles that lie inside a quadrilateral are called its interior angles. The sum of the interior angles of a quadrilateral is 360°.',
   },
   {
     title: '',
-    description: 'Triangle sum theorem holds for all types of triangles.',
-  },
-  {
-    title: '',
-    description: 'The sum of all exterior angles of a triangle is equal to 360°.',
-  },
-  {
-    title: '',
-    description: 'The sum of all exterior angles of a convex polygon is equal to 360°.',
+    description: 'The angles that are formed between one side of a quadrilateral and another line extended from an adjacent side are called its exterior angles. The sum of the exterior angles of a quadrilateral is 360°.',
   },
 ]
 
