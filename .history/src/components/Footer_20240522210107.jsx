@@ -1,7 +1,7 @@
 import { resourcesLinks, platformLinks, communityLinks } from '../constants'
 const Footer = () => {
   return (
-    <footer className='mt-10 border-t py-7 border-neutral-700 left'>
+    <footer className='mt-20 border-t py-10 border-neutral-700 left'>
       <div className='flex justify-end'>
         {/* <div className='grid grid-cols-2 lg:grid-cols-3 gap-4'> */}
         {/* <div>
@@ -50,18 +50,18 @@ const Footer = () => {
           </ul>
         </div> */}
         <ul className='space-y-2'>
-          <li className='text-neutral-700 hover:text-neutral-400  visited:text-orange-600'>
-            ©2024 Prva privatna osnovna škola "Isa-beg Ishaković ©
+          <li>©2024 Prva privatna osnovna škola "Isa-beg Ishaković</li>
+          <li>
+            {' '}
             <a
-              className='text-neutral-700 hover:text-neutral-700  visited:text-neutral-700'
+              className='text-orange-500 hover:text-orange-400  visited:text-orange-600'
               // className='underline text- text-orange-700 hover:text-white visited:text-purple-600'
               href='https://github.com/aminase'
               // className='text-neutral-300 hover:text-white'
             >
-              aminase
-            </a>{' '}
+              ©aminase
+            </a>
           </li>
-          <li> </li>
         </ul>
       </div>
       {/* </div> */}

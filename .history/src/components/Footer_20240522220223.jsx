@@ -53,7 +53,7 @@ const Footer = () => {
           <li className='text-neutral-700 hover:text-neutral-400  visited:text-orange-600'>
             ©2024 Prva privatna osnovna škola "Isa-beg Ishaković ©
             <a
-              className='text-neutral-700 hover:text-neutral-700  visited:text-neutral-700'
+              className='text-orange-500 hover:text-orange-200  visited:text-orange-600'
               // className='underline text- text-orange-700 hover:text-white visited:text-purple-600'
               href='https://github.com/aminase'
               // className='text-neutral-300 hover:text-white'

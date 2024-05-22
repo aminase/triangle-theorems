@@ -93,6 +93,10 @@ export const features = [
 export const checklistItems = [
   {
     title: '',
+    description: ' There are 4 interior angles and 4 exterior angles in a quadrilateral.',
+  },
+  {
+    title: '',
     description:
       'The angles that lie inside a quadrilateral are called its interior angles. The sum of the interior angles of a quadrilateral is 360°.',
   },
@@ -100,10 +104,6 @@ export const checklistItems = [
     title: '',
     description:
       'The angles that are formed between one side of a quadrilateral and another line extended from an adjacent side are called its exterior angles. The sum of the exterior angles of a quadrilateral is 360°.',
-  },
-  {
-    title: '',
-    description: 'The sum of an interior angle and its corresponding exterior angle is always 180.',
   },
 ]
 

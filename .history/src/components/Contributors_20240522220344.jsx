@@ -3,7 +3,7 @@ import { testimonials } from '../constants'
 const Contributors = () => {
   return (
     <div className='mt-10 tracking-wide' id='contributors'>
-      <h2 className='text-orange-400 text-2xl sm:text-3xl lg:text-5xl text-center my-10 lg:my-15'>
+      <h2 className='text-2xl sm:text-3xl lg:text-5xl text-center my-10 lg:my-15'>
         Contributors on a project
       </h2>
       <div className='flex flex-wrap justify-center'>
