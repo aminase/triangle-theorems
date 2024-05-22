@@ -9,7 +9,7 @@ import { checklistItems } from '../constants'
 
 const OurProject = () => {
   return (
-    <div className='flex flex-col items-center mt-16 lg:mt-5' id='our-project'>
+    <div className='flex flex-col items-center mt-14 lg:mt-5' id='our-project'>
       <h1 className='text-orange-400 text-2xl sm:text-3xl lg:text-5xl text-center tracking-wide'>
         Our Project
         <span className='bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text'>
