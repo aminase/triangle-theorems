@@ -23,7 +23,7 @@ const LandingPage = () => {
         alt='quadrilateral'
       />
 
-      <p className='mt-8 text-lg text-center text-white-500 max-w-4xl mb-10'>
+      <p className='mt-8 text-lg text-center text-white-500 max-w-4xl mb-4'>
         The unknown angles of a quadrilateral can be easily calculated if the other angles are known
         because the interior angles of a quadrilateral always sum up to 360°. The sum of an interior
         angle and its corresponding exterior angle is always 180°.{' '}

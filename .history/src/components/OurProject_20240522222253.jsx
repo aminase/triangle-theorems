@@ -18,7 +18,7 @@ const OurProject = () => {
         </span>
       </h1>
       <p className='mt-8 mb-6 text-lg text-center text-white-500 max-w-4xl'>
-        Aim of this project is to visually represent that sum of the interior angles (red) of a
+        Aim of this project is to visually show that sum of the interior angles (red) of a
         quadrilateral is 360° and the sum of the exterior angles (blue) is 360°.
       </p>
       <img

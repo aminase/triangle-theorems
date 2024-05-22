@@ -15,7 +15,7 @@ const LandingPage = () => {
         </span>
       </h1>
       <p className='mt-8 text-lg text-center text-white-500 max-w-4xl'>
-        A quadrilateral is a two-dimensional shape with four sides, four vertices, and four angles.
+        Quadrilaterals are four-sided polygons with four vertices and four interior angles.
       </p>
       <img
         className='rounded-lg w-4/5 border border-orange-700 shadow-sm shadow-orange-400 mx-2 my-4'
@@ -23,13 +23,13 @@ const LandingPage = () => {
         alt='quadrilateral'
       />
 
-      <p className='mt-8 text-lg text-center text-white-500 max-w-4xl mb-10'>
+      <p className='mt-8 text-lg text-center text-white-500 max-w-4xl'>
         The unknown angles of a quadrilateral can be easily calculated if the other angles are known
         because the interior angles of a quadrilateral always sum up to 360°. The sum of an interior
         angle and its corresponding exterior angle is always 180°.{' '}
       </p>
       <img
-        className='rounded-lg w-4/5 border border-orange-700 shadow-sm shadow-orange-400 '
+        className='rounded-lg w-4/5 border border-orange-700 shadow-sm shadow-orange-400 mx-2 my-4'
         src={projectpicture}
         alt='quadrilateral'
       />

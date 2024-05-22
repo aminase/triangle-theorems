@@ -11,7 +11,7 @@ const Footer = () => {
             {' '}
             Designed by{' '}
             <a
-              className='text-neutral-800 hover:text-orange-700  visited:text-neutral-700'
+              className='text-neutral-800 hover:text-orange-700  visited:text-orange-700'
               // className='underline text- text-orange-700 hover:text-white visited:text-purple-600'
               href='https://github.com/aminase'
               // className='text-neutral-300 hover:text-white'
